@@ -1,1 +1,10 @@
+[build]
+  command = "hugo --minify"
+  publish = "public"
 
+[build.environment]
+  HUGO_VERSION = "0.119.0"
+  HUGO_ENABLE_GIT_INFO = "true"
+
+[context.deploy-preview]
+  command = "hugo --buildFuture -b $DEPLOY_PRIME_URL"
