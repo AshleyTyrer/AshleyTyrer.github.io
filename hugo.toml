@@ -1,0 +1,19 @@
+baseURL = 'https://ashleytyrer.github.io/'
+languageCode = 'en-us'
+title = 'Ashley Tyrer'
+
+[module]
+  [[module.imports]]
+    path = 'github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5'
+
+[params]
+  description = 'Personal academic website of Ashley Tyrer'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[security]
+  [security.funcs]
+    getenv = ['^HUGO_', '^CI$', '^WC_']
