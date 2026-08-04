@@ -3,7 +3,7 @@
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.164.0"
+  HUGO_VERSION = "0.128.0"
   HUGO_ENABLE_GIT_INFO = "true"
 
 [context.deploy-preview]
