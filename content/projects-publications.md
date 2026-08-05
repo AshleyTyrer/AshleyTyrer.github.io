@@ -1,12 +1,8 @@
 +++
-title = "Projects and Publications"
+title = "Publications"
 menu = "main"
-weight = 30
+weight = 40
 +++
-
-## Projects
-
-- Ongoing and completed research projects will be listed here.
 
 ## Publications
 

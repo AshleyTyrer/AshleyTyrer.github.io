@@ -1,7 +1,7 @@
 +++
-title = "Research Interests"
+title = "Research"
 menu = "main"
-weight = 40
+weight = 30
 +++
 
 My research interests include:

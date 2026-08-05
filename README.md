@@ -13,9 +13,10 @@ Personal academic website built with the Wowchemy Hugo template.
 
 - Home (short biography)
 - CV (PDF)
-- Projects and Publications
-- Research Interests
+- Research
+- Publications
 - Teaching
+- Academic Services
 - Blog
 - Contact
 uh
