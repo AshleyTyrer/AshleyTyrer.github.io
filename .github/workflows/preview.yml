@@ -1,0 +1,49 @@
+name: PR Preview
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: recursive
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.21'
+
+      - name: Install Hugo
+        run: |
+          wget -qO hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.128.0/hugo_extended_0.128.0_linux-amd64.deb
+          sudo dpkg -i hugo.deb
+
+      - name: Build preview
+        run: hugo --buildFuture --baseURL "https://ashleytyrer.github.io/previews/pr-${{ github.event.pull_request.number }}/"
+        env:
+          HUGO_ENVIRONMENT: production
+
+      - name: Deploy preview to gh-pages-previews branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages-previews
+          publish_dir: public
+          destination_dir: pr-${{ github.event.pull_request.number }}
+          keep_files: true
+
+      - name: Comment preview URL on PR
+        uses: marocchino/sticky-pull-request-comment@v2
+        with:
+          message: |
+            ### 👀 Preview ready!
+            🔗 https://ashleytyrer.github.io/previews/pr-${{ github.event.pull_request.number }}/
+            _Updated on every push to this PR._
