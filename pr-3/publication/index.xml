@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Ashley Tyrer</title>
+    <link>https://ashleytyrer.github.io/previews/pr-3/publication/</link>
+      <atom:link href="https://ashleytyrer.github.io/previews/pr-3/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ashleytyrer.github.io/previews/pr-3/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_box_center_3.png</url>
+      <title>Publications</title>
+      <link>https://ashleytyrer.github.io/previews/pr-3/publication/</link>
+    </image>
+    
+    <item>
+      <title>Cortical Microstructural Variations Correlate with Individual Differences in Gamified Exploration--Exploitation Behaviours</title>
+      <link>https://ashleytyrer.github.io/previews/pr-3/publication/tyrer-2026-cortical/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://ashleytyrer.github.io/previews/pr-3/publication/tyrer-2026-cortical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dissociable microstructural correlates of learning and decision-making</title>
+      <link>https://ashleytyrer.github.io/previews/pr-3/publication/vejlo-2026-dissociable/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://ashleytyrer.github.io/previews/pr-3/publication/vejlo-2026-dissociable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interoceptive ability is uncorrelated across respiratory and cardiac axes in a large scale psychophysical study</title>
+      <link>https://ashleytyrer.github.io/previews/pr-3/publication/banellis-2026-interoceptive-ability/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://ashleytyrer.github.io/previews/pr-3/publication/banellis-2026-interoceptive-ability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interoceptive performance is unrelated to mental health symptoms in a large multi-domain psychophysical investigation</title>
+      <link>https://ashleytyrer.github.io/previews/pr-3/publication/banellis-2026-interoceptive-performance/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://ashleytyrer.github.io/previews/pr-3/publication/banellis-2026-interoceptive-performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peripheral beta-blockade differentially enhances cardiac and respiratory interoception</title>
+      <link>https://ashleytyrer.github.io/previews/pr-3/publication/tyrer-2025-peripheral/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://ashleytyrer.github.io/previews/pr-3/publication/tyrer-2025-peripheral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lateralized memory circuit dropout in Alzheimer&#39;s disease patients</title>
+      <link>https://ashleytyrer.github.io/previews/pr-3/publication/tyrer-2020-lateralized/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ashleytyrer.github.io/previews/pr-3/publication/tyrer-2020-lateralized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An efficient and scalable pipeline for epitope tagging in mammalian stem cells using Cas9 ribonucleoprotein</title>
+      <link>https://ashleytyrer.github.io/previews/pr-3/publication/dewari-2018-efficient/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ashleytyrer.github.io/previews/pr-3/publication/dewari-2018-efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPM12 Manual — Chapter 44: Dynamic Causal Modelling for Evoked Responses</title>
+      <link>https://ashleytyrer.github.io/previews/pr-3/publication/ashburner-2014-spm12/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://ashleytyrer.github.io/previews/pr-3/publication/ashburner-2014-spm12/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
