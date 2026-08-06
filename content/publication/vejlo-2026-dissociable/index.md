@@ -1,5 +1,5 @@
 ---
-title: "Dissociable microstructural correlates of learning and decision-making"
+title: "Dissociable microstructural correlates of learning rate and learning noise in gamified reward-based decision-making"
 authors:
   - Melina Vejlø
   - Ashley Tyrer
