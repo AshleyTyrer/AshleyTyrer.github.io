@@ -8,13 +8,13 @@ authors:
   - Melina Vejlø
   - Tobias Hauser
   - Micah Allen
-date: "2026-01-01"
-doi: ""
+date: "2026-08-05"
+doi: "DOI: 10.5334/cpsy.164"
 
 publication_types: ["2"]
 
 publication: "*Computational Psychiatry*, 10(1)"
-publication_short: "*Comput Psychiatry*"
+publication_short: "*Comp Psychiatry*"
 
 abstract: ""
 
@@ -24,6 +24,7 @@ tags:
   - Exploration-Exploitation
   - Computational Psychiatry
   - Neuroimaging
+  - Quantitative MRI
 
 featured: true
 
