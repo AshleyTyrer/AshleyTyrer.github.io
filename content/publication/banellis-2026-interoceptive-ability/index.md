@@ -11,7 +11,7 @@ authors:
   - Francesca Fardo
   - Micah G Allen
 date: "2026-01-01"
-doi: ""
+doi: "https://doi.org/10.1038/s44271-026-00404-z"
 
 publication_types: ["2"]
 
