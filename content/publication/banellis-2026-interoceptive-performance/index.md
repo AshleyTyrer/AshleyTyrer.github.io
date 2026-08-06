@@ -12,8 +12,8 @@ authors:
   - Kelly Hoogervorst
   - Francesca Fardo
   - Micah G Allen
-date: "2026-01-01"
-doi: ""
+date: "2026-07-22"
+doi: "https://doi.org/10.1038/s44220-026-00688-4"
 
 publication_types: ["2"]
 
