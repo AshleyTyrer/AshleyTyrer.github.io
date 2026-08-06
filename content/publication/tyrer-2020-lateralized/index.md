@@ -8,7 +8,7 @@ authors:
   - Azziza O Bankole
   - Iain D Gilchrist
   - Rosalyn J Moran
-date: "2020-01-01"
+date: "2020-12-10"
 doi: "10.1093/braincomms/fcaa212"
 
 publication_types: ["2"]
@@ -24,7 +24,7 @@ tags:
   - Dynamic Causal Modelling
   - Computational Psychiatry
   - Neuroimaging
-  - fMRI
+  - EEG
 
 featured: true
 
