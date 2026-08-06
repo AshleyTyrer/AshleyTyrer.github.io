@@ -17,7 +17,7 @@ type = "landing"
 
 </div>
 
-<div style="flex: 1; min-width: 200px;">
+<div style="flex: 1; min-width: 200px; text-align: justify;">
 
 ## About Me
 
@@ -27,7 +27,7 @@ Please use the navigation menu to view my CV, research, publications, teaching, 
 
 </div>
 
-<div style="flex: 1; min-width: 200px;">
+<div style="flex: 1; min-width: 200px;text-align: justify;">
 
 ## Bio
 
