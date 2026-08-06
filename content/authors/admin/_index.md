@@ -13,8 +13,8 @@ role = "Academic Researcher"
   ]
 
 [[social]]
-icon = "Bluesky"
-icon_pack = "brands"
+icon = "bluesky"
+icon_pack = "fab"
 label = "Bluesky"
 link = "https://bsky.app/profile/ashleytyrer.bsky.social"
 
@@ -28,17 +28,17 @@ link = "https://www.linkedin.com/in/ashleytyrer/"
 icon = "github"
 icon_pack = "fab"
 label = "GitHub"
-link = "github.com/AshleyTyrer"
+link = "https://github.com/AshleyTyrer"
 
 [[social]]
 icon = "google-scholar"
-icon_pack = "academicons"
+icon_pack = "ai"
 label = "Google Scholar"
 link = "https://scholar.google.com/citations?user=by4f3u0AAAAJ&hl=en"
 
 [[social]]
 icon = "orcid"
-icon_pack = "academicons"
+icon_pack = "ai"
 label = "ORCID"
 link = "https://orcid.org/0000-0002-6411-8345"
 +++
