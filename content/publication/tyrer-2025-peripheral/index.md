@@ -12,8 +12,8 @@ authors:
   - Tobias Hauser
   - Francesco Bavato
   - et al.
-date: "2025-01-01"
-doi: ""
+date: "2025-03-06"
+doi: "https://doi.org/10.1101/2025.02.28.640776"
 
 publication_types: ["3"]
 
@@ -28,6 +28,7 @@ tags:
   - Respiratory
   - Pharmacology
   - Psychophysics
+  - Noradrenaline
 
 featured: true
 
