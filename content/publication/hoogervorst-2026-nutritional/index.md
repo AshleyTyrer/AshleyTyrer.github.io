@@ -1,11 +1,12 @@
 ---
-title: "Nutritional and hedonic judgements of food are differentially influenced by interoceptive and exteroceptive predictions"
+title: "Dissociating Accuracy and Metacognition in Nutritional Judgements"
 authors:
   - Kelly Hoogervorst
+  - Francesco Bavato
   - Ashley Tyrer
   - Micah Allen
-date: "2026-01-01"
-doi: ""
+date: "2026-03-12"
+doi: "https://doi.org/10.31234/osf.io/5xhnk_v1"
 
 publication_types: ["3"]
 
