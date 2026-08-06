@@ -15,22 +15,26 @@ role = "Academic Researcher"
 [[social]]
 icon = "bluesky"
 icon_pack = "fab"
-link = "[TODO: your Bluesky profile URL]"
+label = "Bluesky"
+link = "https://TODO-BLUESKY-PROFILE-URL.invalid"
 
 [[social]]
 icon = "linkedin"
 icon_pack = "fab"
-link = "[TODO: your LinkedIn profile URL]"
+label = "LinkedIn"
+link = "https://TODO-LINKEDIN-PROFILE-URL.invalid"
 
 [[social]]
 icon = "github"
 icon_pack = "fab"
-link = "[TODO: your GitHub profile URL]"
+label = "GitHub"
+link = "https://TODO-GITHUB-PROFILE-URL.invalid"
 
 [[social]]
 icon = "google-scholar"
 icon_pack = "ai"
-link = "[TODO: your Google Scholar profile URL]"
+label = "Google Scholar"
+link = "https://TODO-GOOGLE-SCHOLAR-PROFILE-URL.invalid"
 +++
 
 Ashley Tyrer is an academic researcher focused on developing and applying rigorous scientific methods to complex interdisciplinary questions.
