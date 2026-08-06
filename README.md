@@ -19,4 +19,3 @@ Personal academic website built with the Wowchemy Hugo template.
 - Academic Services
 - Blog
 - Contact
-uh
