@@ -32,7 +32,7 @@ Please use the navigation menu to view my CV, research, publications, teaching, 
 ## Bio
 
 - **Current position:** Assistant Professor of Computational Neuroscience, Aarhus University, Denmark
-- **PhD:** University of Bristol, 2021. Wellcome Trust PhD Fellowship in Neural Dynamics. Supervisor: Rosalyn Moran
+- **PhD:** University of Bristol, 2021. Wellcome Trust PhD Fellowship in Neural Dynamics. Thesis title: "*Modelling of Behaviour and Neuroimaging in Decision Making and Memory Through Application of Variational Bayesian Methods, In Health and Disease*". [Link to Thesis](https://research-information.bris.ac.uk/en/studentTheses/modelling-of-behaviour-and-neuroimaging-in-decision-making-and-me/) Supervisor: Rosalyn Moran
 - **BSc:** University of Edinburgh, UK 2016. First Class (Hons) in Biomedical Sciences (Neuroscience)
 
 </div>
