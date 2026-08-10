@@ -1,7 +1,7 @@
 {{ with site.GetPage "/authors/admin" }}
   {{ $author := . }}
   {{ with .Params.social }}
-  <div class="powered-by d-flex justify-content-center pb-2">
+  <div class="powered-by footer-social-icons d-flex justify-content-center pb-2">
     {{ partial "social_links" $author }}
   </div>
   {{ end }}

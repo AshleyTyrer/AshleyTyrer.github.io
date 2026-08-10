@@ -17,3 +17,6 @@ title = 'Ashley Tyrer'
 [security]
   [security.funcs]
     getenv = ['^HUGO_', '^CI$', '^WC_']
+
+[params.extensions.academicons]
+enable = true
