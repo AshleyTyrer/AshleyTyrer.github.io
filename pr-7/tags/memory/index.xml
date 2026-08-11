@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Memory | Ashley Tyrer</title>
+    <link>https://ashleytyrer.github.io/previews/pr-7/tags/memory/</link>
+      <atom:link href="https://ashleytyrer.github.io/previews/pr-7/tags/memory/index.xml" rel="self" type="application/rss+xml" />
+    <description>Memory</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ashleytyrer.github.io/previews/pr-7/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_box_center_3.png</url>
+      <title>Memory</title>
+      <link>https://ashleytyrer.github.io/previews/pr-7/tags/memory/</link>
+    </image>
+    
+    <item>
+      <title>Lateralized memory circuit dropout in Alzheimer&#39;s disease patients</title>
+      <link>https://ashleytyrer.github.io/previews/pr-7/publication/tyrer-2020-lateralized/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://ashleytyrer.github.io/previews/pr-7/publication/tyrer-2020-lateralized/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
