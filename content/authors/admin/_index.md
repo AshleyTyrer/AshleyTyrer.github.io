@@ -16,7 +16,7 @@ role = "Academic Researcher"
 icon = "bluesky"
 icon_pack = "fab"
 label = "Bluesky"
-link = "https://bsky.app/profile/ashleytyrer.bsky.social"
+link = "https://bsky.app/profile/did:plc:die4pjz2i5sntut36xzd7z5j"
 
 [[social]]
 icon = "linkedin"

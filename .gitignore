@@ -1,3 +1,45 @@
+# Hugo build artifacts
 /public/
 /resources/
 .hugo_build.lock
+go.sum
+
+# Hugo server cache (if using .hugo_cache)
+.hugo_cache/
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.c9/
+*.sublime-workspace
+*.sublime-project
+.vim/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Node modules (in case theme uses npm)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Temporary files
+*.tmp
+*.bak
+*.orig
