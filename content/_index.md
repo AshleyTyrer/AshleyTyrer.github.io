@@ -21,9 +21,10 @@ type = "landing"
 
 ## About Me
 
-I am an Assistant Professor of Computational Neuroscience interested in noradrenaline, decision-making, and brain-body interactions. My work combines neuroimaging, pharmacology, and computational modelling to [...]
+I am an Assistant Professor of Computational Neuroscience at Aarhus University. My research employs Variational Bayesian methods to study the effects of noradrenaline on uncertainty, decision-making, and brain-body interactions. I am also an expert in Dynamic Causal Modelling and Active Inference of human neuroimaging and behavioural data.
 
-Please use the navigation menu to view my CV, research, publications, teaching, academic services, blog posts, and contact information.
+# How to contact me:
+Email: ashley(dot)tyrer(at)cfin.au.dk
 
 </div>
 
@@ -32,7 +33,7 @@ Please use the navigation menu to view my CV, research, publications, teaching, 
 ## Bio
 
 - **Current position:** Assistant Professor of Computational Neuroscience, Aarhus University, Denmark
-- **PhD:** University of Bristol, 2021. Wellcome Trust PhD Fellowship in Neural Dynamics. Thesis title: "*Modelling of Behaviour and Neuroimaging in Decision Making and Memory Through Application of Variational Bayesian Methods, In Health and Disease*". [Link to Thesis](https://research-information.bris.ac.uk/en/studentTheses/modelling-of-behaviour-and-neuroimaging-in-decision-making-and-me/) Supervisor: Rosalyn Moran
+- **PhD:** University of Bristol, 2021. Wellcome Trust PhD Fellowship in Neural Dynamics. Thesis title: "*Modelling of Behaviour and Neuroimaging in Decision Making and Memory Through Application of Variational Bayesian Methods, In Health and Disease*". [Link to Thesis](https://research-information.bris.ac.uk/en/studentTheses/modelling-of-behaviour-and-neuroimaging-in-decision-making-and-me/) Supervisor: Prof Rosalyn Moran
 - **BSc:** University of Edinburgh, UK 2016. First Class (Hons) in Biomedical Sciences (Neuroscience)
 
 </div>
