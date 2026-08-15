@@ -8,7 +8,7 @@ weight = 40
 
 ## Peer-Reviewed Publications
 
-**Tyrer A**, Nikolova N, Dubois M, Banellis L, Vejlø M, Hauser T, Allen M (2026). Cortical Microstructural Variations Correlate with Individual Differences in Gamified Exploration–Exploitation Behaviours. *Computational Psychiatry*, 10(1). DOI: 10.5334/cpsy.164
+**Tyrer A**, Nikolova N, Dubois M, Banellis L, Vejlø M, Hauser T, Allen M (2026). Cortical Microstructural Variations Correlate with Individual Differences in Gamified Exploration–Exploitation Behaviours. *Computational Psychiatry*, 10(1). https://doi.org/10.5334/cpsy.164 
 
 Banellis L, Nikolova N, Ehmsen JF, Courtin AS, Vejlø M, **Tyrer A**, Böhme RA, Bavato F, Hoogervorst K, Fardo F, Allen MG (2026). Interoceptive performance is unrelated to mental health symptoms in a large multi-domain psychophysical investigation. *Nature Mental Health*, 1–15. https://doi.org/10.1038/s44220-026-00688-4
 
