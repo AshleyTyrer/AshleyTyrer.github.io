@@ -16,6 +16,6 @@ Personal academic website built with the Wowchemy Hugo template.
 - Research
 - Publications
 - Teaching
-- Academic Services
+- Academic Activities
 - Blog
 - Contact

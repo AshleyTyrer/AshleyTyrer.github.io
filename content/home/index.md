@@ -21,7 +21,7 @@ type = "landing"
 
 I am Ashley Tyrer, an academic researcher interested in computational neuroscience, interoception, and decision-making. My work combines neuroimaging, pharmacology, and computational modelling to understand how the brain represents and learns from signals inside and outside the body.
 
-Please use the navigation menu to view my CV, research, publications, teaching, academic services, blog posts, and contact information.
+Please use the navigation menu to view my CV, research, publications, teaching, academic activities, blog posts, and contact information.
 
 </div>
 
