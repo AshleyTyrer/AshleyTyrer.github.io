@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dynamic Causal Modelling | Ashley Tyrer</title>
+    <link>https://ashleytyrer.github.io/previews/pr-8/tags/dynamic-causal-modelling/</link>
+      <atom:link href="https://ashleytyrer.github.io/previews/pr-8/tags/dynamic-causal-modelling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dynamic Causal Modelling</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ashleytyrer.github.io/previews/pr-8/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_box_center_3.png</url>
+      <title>Dynamic Causal Modelling</title>
+      <link>https://ashleytyrer.github.io/previews/pr-8/tags/dynamic-causal-modelling/</link>
+    </image>
+    
+    <item>
+      <title>Lateralized memory circuit dropout in Alzheimer&#39;s disease patients</title>
+      <link>https://ashleytyrer.github.io/previews/pr-8/publication/tyrer-2020-lateralized/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://ashleytyrer.github.io/previews/pr-8/publication/tyrer-2020-lateralized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPM12 Manual — Chapter 44: Dynamic Causal Modelling for Evoked Responses</title>
+      <link>https://ashleytyrer.github.io/previews/pr-8/publication/ashburner-2014-spm12/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://ashleytyrer.github.io/previews/pr-8/publication/ashburner-2014-spm12/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

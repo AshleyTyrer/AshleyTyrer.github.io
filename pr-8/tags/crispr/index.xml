@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CRISPR | Ashley Tyrer</title>
+    <link>https://ashleytyrer.github.io/previews/pr-8/tags/crispr/</link>
+      <atom:link href="https://ashleytyrer.github.io/previews/pr-8/tags/crispr/index.xml" rel="self" type="application/rss+xml" />
+    <description>CRISPR</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ashleytyrer.github.io/previews/pr-8/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_box_center_3.png</url>
+      <title>CRISPR</title>
+      <link>https://ashleytyrer.github.io/previews/pr-8/tags/crispr/</link>
+    </image>
+    
+    <item>
+      <title>An efficient and scalable pipeline for epitope tagging in mammalian stem cells using Cas9 ribonucleoprotein</title>
+      <link>https://ashleytyrer.github.io/previews/pr-8/publication/dewari-2018-efficient/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ashleytyrer.github.io/previews/pr-8/publication/dewari-2018-efficient/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
