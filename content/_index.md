@@ -23,7 +23,7 @@ type = "landing"
 
 I am an Assistant Professor of Computational Neuroscience at Aarhus University. My research employs Variational Bayesian methods to study the effects of noradrenaline on uncertainty, decision-making, and brain-body interactions. I am also an expert in Dynamic Causal Modelling and Active Inference of human neuroimaging and behavioural data.
 
-# How to contact me:
+### How to contact me:
 Email: ashley(dot)tyrer(at)cfin.au.dk
 
 </div>
