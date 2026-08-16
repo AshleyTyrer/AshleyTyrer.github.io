@@ -1,5 +1,5 @@
 +++
-title = "Academic Services"
+title = "Academic Activities"
 menu = "main"
 weight = 55
 +++

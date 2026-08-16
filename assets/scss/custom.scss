@@ -2,8 +2,29 @@
   font-size: 2rem;
 }
 
-.footer-social-icons .network-icon i {
-  font-size: 2rem;
+.profile-intro {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  align-items: flex-start;
+}
+
+.profile-photo {
+  flex: 1 1 200px;
+  text-align: center;
+}
+
+.profile-details {
+  flex: 2 1 200px;
+}
+
+.profile-section {
+  font-size: 0.9em;
+  text-align: justify;
+}
+
+.profile-contact {
+  font-size: 0.9em;
 }
 
 .footer-social-icons .network-icon img {
