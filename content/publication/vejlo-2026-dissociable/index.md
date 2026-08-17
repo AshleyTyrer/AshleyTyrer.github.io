@@ -8,8 +8,8 @@ authors:
   - Magda Dubois
   - Tobias Hauser
   - Micah Allen
-date: "2026-01-01"
-doi: ""
+date: "2026-02-25"
+doi: "https://doi.org/10.64898/2026.02.24.707646"
 
 publication_types: ["3"]
 
