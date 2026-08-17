@@ -1,0 +1,69 @@
+{{- define "main" -}}
+
+<article class="article research-page">
+  {{ partial "page_header" . }}
+
+  <div class="article-container">
+    <div class="article-style">
+      {{ range site.Data.research_areas.areas }}
+        {{ $area := . }}
+        {{ $matches := slice }}
+        {{ range where site.RegularPages "Section" "publication" }}
+          {{ if in (.Params.tags | default (slice)) $area.tag }}
+            {{ $matches = $matches | append . }}
+          {{ end }}
+        {{ end }}
+
+        {{ $firstAuthored := slice }}
+        {{ $otherAuthored := slice }}
+        {{ range sort $matches "Date" "desc" }}
+          {{ $authors := .Params.authors | default (slice) }}
+          {{ if and (gt (len $authors) 0) (eq (index $authors 0) "Ashley Tyrer") }}
+            {{ $firstAuthored = $firstAuthored | append . }}
+          {{ else }}
+            {{ $otherAuthored = $otherAuthored | append . }}
+          {{ end }}
+        {{ end }}
+
+        <section class="research-area" aria-labelledby="research-area-{{ $area.title | anchorize }}">
+          <h2 id="research-area-{{ $area.title | anchorize }}">{{ $area.title }}</h2>
+
+          <div class="research-area__intro">
+            <div class="research-area__image">
+              <img src="{{ $area.image | relURL }}" alt="" aria-hidden="true">
+            </div>
+            <div class="research-area__content">
+              <p>{{ $area.description }}</p>
+
+              <h3>Key Publications</h3>
+              <div class="research-publications">
+                {{ range $firstAuthored | append $otherAuthored }}
+                  {{ $doi := .Params.doi | default "" }}
+                  {{ $href := $doi }}
+                  {{ if and $doi (not (or (hasPrefix $doi "https://") (hasPrefix $doi "http://"))) }}
+                    {{ $href = printf "https://doi.org/%s" (replaceRE `(?i)^doi:\s*` "" $doi) }}
+                  {{ end }}
+                  {{ if not $href }}{{ $href = .Params.url_pdf | default "" }}{{ end }}
+
+                  {{ if $href }}
+                    <a class="research-publication-card" href="{{ $href }}" target="_blank" rel="noopener noreferrer">
+                      <img class="research-publication-card__icon" src="{{ "media/publication_icon.svg" | relURL }}" alt="" aria-hidden="true">
+                      <span class="research-publication-card__body">
+                        <span class="research-publication-card__title">{{ .Title }}</span>
+                        {{ with .Params.publication }}<span class="research-publication-card__citation">{{ . | markdownify }}</span>{{ end }}
+                      </span>
+                    </a>
+                  {{ end }}
+                {{ end }}
+              </div>
+            </div>
+          </div>
+        </section>
+      {{ end }}
+    </div>
+
+    {{ partial "page_footer" . }}
+  </div>
+</article>
+
+{{- end -}}
