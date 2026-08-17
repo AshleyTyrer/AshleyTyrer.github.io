@@ -16,11 +16,10 @@ publication_short: "*OSF*"
 abstract: ""
 
 tags:
-  - Interoception
   - Food
   - Nutrition
   - Decision-Making
-  - Predictive Processing
+  - Metacognition
 
 featured: false
 
