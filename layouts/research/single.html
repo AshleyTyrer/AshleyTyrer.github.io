@@ -1,7 +1,7 @@
 {{- define "main" -}}
 
 <article class="article research-page">
-  {{ partial "page_header" . }}
+  {{ partial "page_header_research" . }}
 
   <div class="article-container">
     <div class="article-style">
@@ -50,6 +50,14 @@
                       <img class="research-publication-card__icon" src="{{ "media/publication_icon.svg" | relURL }}" alt="" aria-hidden="true">
                       <span class="research-publication-card__body">
                         <span class="research-publication-card__title">{{ .Title }}</span>
+                        {{ with .Params.authors }}
+                          <span class="research-publication-card__authors">
+                            {{- range $index, $author := . -}}
+                              {{- if $index }}, {{ end -}}
+                              {{- if eq $author "Ashley Tyrer" -}}<strong>{{ $author }}</strong>{{ else }}{{ $author }}{{ end -}}
+                            {{- end -}}
+                          </span>
+                        {{ end }}
                         {{ with .Params.publication }}<span class="research-publication-card__citation">{{ . | markdownify }}</span>{{ end }}
                       </span>
                     </a>

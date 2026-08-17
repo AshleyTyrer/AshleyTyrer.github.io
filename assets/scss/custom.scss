@@ -38,14 +38,14 @@
 
 .research-area__intro {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   gap: 2rem;
 }
 
 .research-area__image {
   flex: 0 0 20%;
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: center;
 }
 
@@ -62,8 +62,9 @@
   min-width: 0;
 }
 
-.research-area__content > p {
+.research-area__content > p:first-child {
   margin-top: 0;
+  margin-bottom: 0;
 }
 
 .research-area__content h3 {
@@ -126,6 +127,10 @@
 
 .research-publication-card__title {
   font-weight: 600;
+}
+
+.research-publication-card__authors {
+  font-size: 0.9em;
 }
 
 .research-publication-card__citation {
