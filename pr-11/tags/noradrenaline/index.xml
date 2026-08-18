@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Noradrenaline | Ashley Tyrer</title>
+    <link>https://ashleytyrer.github.io/previews/pr-11/tags/noradrenaline/</link>
+      <atom:link href="https://ashleytyrer.github.io/previews/pr-11/tags/noradrenaline/index.xml" rel="self" type="application/rss+xml" />
+    <description>Noradrenaline</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ashleytyrer.github.io/previews/pr-11/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_box_center_3.png</url>
+      <title>Noradrenaline</title>
+      <link>https://ashleytyrer.github.io/previews/pr-11/tags/noradrenaline/</link>
+    </image>
+    
+    <item>
+      <title>Peripheral beta-blockade differentially enhances cardiac and respiratory interoception</title>
+      <link>https://ashleytyrer.github.io/previews/pr-11/publication/tyrer-2025-peripheral/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://ashleytyrer.github.io/previews/pr-11/publication/tyrer-2025-peripheral/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cardiac | Ashley Tyrer</title>
+    <link>https://ashleytyrer.github.io/previews/pr-11/tags/cardiac/</link>
+      <atom:link href="https://ashleytyrer.github.io/previews/pr-11/tags/cardiac/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cardiac</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 22 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ashleytyrer.github.io/previews/pr-11/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_box_center_3.png</url>
+      <title>Cardiac</title>
+      <link>https://ashleytyrer.github.io/previews/pr-11/tags/cardiac/</link>
+    </image>
+    
+    <item>
+      <title>Interoceptive performance is unrelated to mental health symptoms in a large multi-domain psychophysical investigation</title>
+      <link>https://ashleytyrer.github.io/previews/pr-11/publication/banellis-2026-interoceptive-performance/</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://ashleytyrer.github.io/previews/pr-11/publication/banellis-2026-interoceptive-performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interoceptive ability is uncorrelated across respiratory and cardiac axes in a large scale psychophysical study</title>
+      <link>https://ashleytyrer.github.io/previews/pr-11/publication/banellis-2026-interoceptive-ability/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://ashleytyrer.github.io/previews/pr-11/publication/banellis-2026-interoceptive-ability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peripheral beta-blockade differentially enhances cardiac and respiratory interoception</title>
+      <link>https://ashleytyrer.github.io/previews/pr-11/publication/tyrer-2025-peripheral/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://ashleytyrer.github.io/previews/pr-11/publication/tyrer-2025-peripheral/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
