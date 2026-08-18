@@ -1,9 +1,9 @@
 {{- define "main" -}}
 
 <article class="article research-page">
-  {{ partial "page_header_research" . }}
-
   <div class="article-container">
+    {{ partial "page_header_research" . }}
+
     <div class="article-style">
       {{ range site.Data.research_areas.areas }}
         {{ $area := . }}
@@ -34,9 +34,12 @@
             </div>
             <div class="research-area__content">
               <p>{{ $area.description }}</p>
+            </div>
+          </div>
 
-              <h3>Key Publications</h3>
-              <div class="research-publications">
+          <div class="research-area__publications">
+            <h3>Key Publications</h3>
+            <div class="research-publications">
                 {{ range $firstAuthored | append $otherAuthored }}
                   {{ $doi := .Params.doi | default "" }}
                   {{ $href := $doi }}
@@ -54,7 +57,14 @@
                           <span class="research-publication-card__authors">
                             {{- range $index, $author := . -}}
                               {{- if $index }}, {{ end -}}
-                              {{- if eq $author "Ashley Tyrer" -}}<strong>{{ $author }}</strong>{{ else }}{{ $author }}{{ end -}}
+                              {{- if or (eq $author "et al") (eq $author "et al.") -}}
+                                {{- $author -}}
+                              {{- else -}}
+                                {{- $parts := split $author " " }}
+                                {{- $firstInitial := (substr (index $parts 0) 0 1) }}
+                                {{- $lastName := (index $parts (sub (len $parts) 1)) }}
+                                {{- if eq $author "Ashley Tyrer" -}}<strong>{{ $lastName }} {{ $firstInitial }}</strong>{{ else }}{{ $lastName }} {{ $firstInitial }}{{ end -}}
+                              {{- end -}}
                             {{- end -}}
                           </span>
                         {{ end }}
@@ -63,7 +73,6 @@
                     </a>
                   {{ end }}
                 {{ end }}
-              </div>
             </div>
           </div>
         </section>
