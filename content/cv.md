@@ -25,15 +25,19 @@ weight = 20
 
 **PhD:**                             **_Wellcome Trust Fellowship, Neural Dynamics, University of Bristol, UK_**
 
+Thesis title: "*Modelling of Behaviour and Neuroimaging in Decision Making and Memory Through Application of Variational Bayesian Methods, In Health and Disease*". [Link to Thesis](https://research-information.bris.ac.uk/en/studentTheses/modelling-of-behaviour-and-neuroimaging-in-decision-making-and-me/) 
+
+Supervisor: Prof Rosalyn Moran
+
 - *Dynamic Causal Modelling:* model fitting and estimation of EEG data (brain activity time series analysis) in Alzheimer’s Disease patients compared to healthy aged control participants
 - *Active Inference:* computational modelling of human decision making, model inversion, and parameter recovery and estimation
 - *Decision making:* Human fMRI brain imaging data collection and analysis, examining the effect of noradrenaline on prediction error
 - *Six presentations (talks and posters) across four different countries*
 
 
-**BSc:**                              **_BSc (Hons) First Class, Biomedical Sciences (Neuroscience), The University of Edinburgh, UK_**
+**BSc:**                              **_First Class (Hons) Biomedical Sciences (Neuroscience), The University of Edinburgh, UK_**
 
-- Final Year Dissertation: ‘Genome Editing with CRISPR/Cas9 to Explore the Function of Neural Stem Cell-Affiliated Transcription Factors’
+- *Final Year Dissertation:* ‘Genome Editing with CRISPR/Cas9 to Explore the Function of Neural Stem Cell-Affiliated Transcription Factors’
 
 ---
 
