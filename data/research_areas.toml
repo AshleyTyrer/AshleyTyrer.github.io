@@ -1,0 +1,23 @@
+[[areas]]
+title = "Interoception"
+tag = "Interoception"
+image = "media/interoception_1.svg"
+description = "I investigate how people perceive and interpret signals from within the body, with a focus on cardiac and respiratory sensations and their role in health and behaviour."
+
+[[areas]]
+title = "Decision-making"
+tag = "Decision-Making"
+image = "media/decisionmaking_1.svg"
+description = "My work examines the cognitive and neural processes that shape decisions, including how people learn from feedback and balance exploration with exploitation."
+
+[[areas]]
+title = "Dynamic Causal Modelling"
+tag = "Dynamic Causal Modelling"
+image = "media/dcm_1.svg"
+description = "I use Dynamic Causal Modelling to test mechanistic accounts of how brain regions interact, and how those interactions change across tasks and clinical conditions."
+
+[[areas]]
+title = "Metacognition"
+tag = "Metacognition"
+image = "media/metacognition_1.svg"
+description = "I study how people evaluate the quality of their own judgements, including the relationship between confidence, accuracy, and decision-making."

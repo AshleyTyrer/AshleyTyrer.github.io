@@ -1,0 +1,11 @@
+{{- define "partials/page_header_research" -}}
+<div class="article-header">
+</div>
+
+<section id="abstract" class="article-section article-abstract">
+  <h1>{{ .Title }}</h1>
+  {{- with .Params.subtitle }}
+    <p class="article-subtitle">{{ . }}</p>
+  {{- end -}}
+</section>
+{{- end -}}
