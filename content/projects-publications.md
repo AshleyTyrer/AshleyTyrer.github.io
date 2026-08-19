@@ -24,7 +24,7 @@ Dewari PS, Southgate B, Mccarten K, Monogarov G, O'Duibhir E, Quinn N, **Tyrer A
 
 **Tyrer A**, Ehmsen JF, Hoogervorst K, Nikolova N, Pando-Naude V, Steenkjær CH, Courtin AS, Fardo F, Hauser T, Bavato F, et al. (2025). Peripheral beta-blockade differentially enhances cardiac and respiratory interoception. *bioRxiv*, 2025.02. https://doi.org/10.1101/2025.02.28.640776
 
-Vejlø M, **Tyrer A**, Nikolova N, Banellis L, Dubois M, Hauser T, Allen M (2026). Dissociable microstructural correlates of learning rate and learning noise in gamified reward-based decision-making. *bioRxiv*, 2026. https://doi.org/10.64898/2026.02.24.707646
+Vejlø M, Nikolova N, Banellis L, **Tyrer A**, Skvortsova V, Hauser T, Allen M (2026). Dissociable microstructural correlates of learning rate and learning noise in gamified reward-based decision-making. *bioRxiv*, 2026. https://doi.org/10.64898/2026.02.24.707646
 
 Hoogervorst K, Bavato F, **Tyrer A**, Allen M (2026). Dissociating Accuracy and Metacognition in Nutritional Judgements. *OSF Preprints*, 2026. https://doi.org/10.31234/osf.io/5xhnk_v1
 
