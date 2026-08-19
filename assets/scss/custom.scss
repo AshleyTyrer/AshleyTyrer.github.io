@@ -2,6 +2,15 @@
   font-size: 2rem;
 }
 
+/* Phase 1: Center article content column like other tabs */
+.article-container {
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
 .profile-intro {
   display: flex;
   flex-wrap: wrap;
@@ -38,14 +47,14 @@
 
 .research-area__intro {
   display: flex;
-  align-items: flex-start;
+  align-items: stretch;
   gap: 2rem;
 }
 
 .research-area__image {
-  flex: 0 0 20%;
+  flex: 0 0 25%;
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   justify-content: center;
 }
 
@@ -53,12 +62,12 @@
   display: block;
   width: 100%;
   max-width: 10rem;
-  height: 10rem;
+  height: 100%;
   object-fit: contain;
 }
 
 .research-area__content {
-  flex: 0 0 calc(80% - 2rem);
+  flex: 0 0 calc(75% - 2rem);
   min-width: 0;
 }
 
@@ -69,6 +78,21 @@
 
 .research-area__content h3 {
   margin-top: 1.5rem;
+}
+
+/* Phase 2: Separate publications section from description */
+.research-area__publications {
+  margin-top: 2rem;
+  padding-top: 2rem;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.dark .research-area__publications {
+  border-top-color: rgba(255, 255, 255, 0.1);
+}
+
+.research-area__publications h3 {
+  margin-top: 0;
 }
 
 .research-publications {
@@ -113,7 +137,8 @@
 }
 
 .research-publication-card__icon {
-  flex: 0 0 auto;
+  flex: 0 0 2rem;
+  min-width: 2rem;
   width: 2rem;
   height: 2rem;
   object-fit: contain;
