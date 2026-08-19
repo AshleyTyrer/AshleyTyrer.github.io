@@ -2,10 +2,10 @@
 title: "Dissociable microstructural correlates of learning rate and learning noise in gamified reward-based decision-making"
 authors:
   - Melina Vejlø
-  - Ashley Tyrer
   - Niia Nikolova
   - Leah Banellis
-  - Magda Dubois
+  - Ashley Tyrer
+  - Vasilisa Skvortsova
   - Tobias Hauser
   - Micah Allen
 date: "2026-02-25"
