@@ -32,8 +32,8 @@ In autumn 2024, I was selected to give an Early Career Researcher Presentation a
 
 ### OHBM Communications Committee
 
-<p markdown="1" style="text-align: justify;">
-I joined the Organisation for Human Brain Mapping Communications Committee ([OHBMComCom](https://www.ohbm-com.com/)) in 2024 as a blog writer, and in 2026 took on the role of **Chair-Elect**. OHBMComCom provides accessible information about scientific advances in the field of human brain mapping and updates in the OHBM community via the OHBM Blog, NeuroSalience podcast, and Lay Media posts. 
+<p style="text-align: justify;">
+I joined the Organisation for Human Brain Mapping Communications Committee (<a href="https://www.ohbm-com.com/">OHBMComCom</a>) in 2024 as a blog writer, and in 2026 took on the role of <strong>Chair-Elect</strong>. OHBMComCom provides accessible information about scientific advances in the field of human brain mapping and updates in the OHBM community via the OHBM Blog, NeuroSalience podcast, and Lay Media posts. 
 </p>
 
 <img src="/OHBMComCom_image1.png" alt="OHBM 2026 Symposium Talk" width="300" style="float: right; margin: 0 0 1em 1em;">
@@ -61,22 +61,22 @@ In autumn 2025 I appeared on The SciComm Spectrum Podcast, hosted by Julia Masse
 
 ### Society for Philosophy and Neuroscience Collaborative Mentorship
 
-<p markdown="1" style="text-align: justify;">
-In 2026 I was selected as a mentor for the [Society for Philosophy and Neuroscience (SPAN) Collaborative Mentorship Program](https://philandneuro.wildapricot.org/Mentorships), funded by the Dana Foundation. As a Neuroscience mentor, I will collaborate with a philosophy expert to joint-mentor a selected PhD student, Eryn Sale, in an interdisciplinary research project which will be presented at the SPAN conference in 2027. 
+<p style="text-align: justify;">
+In 2026 I was selected as a mentor for the <a href="[https://groups.oist.jp/ocnc](https://philandneuro.wildapricot.org/Mentorships)">Society for Philosophy and Neuroscience (SPAN) Collaborative Mentorship Program</a>, funded by the Dana Foundation. As a Neuroscience mentor, I will collaborate with a philosophy expert to joint-mentor a selected PhD student, Eryn Sale, in an interdisciplinary research project which will be presented at the SPAN conference in 2027. 
 </p>
 
 ### OIST Computational Neuroscience Course
 
 <img src="/OCNC2025.jpeg" alt="OCNC 2025 Cohort" width="300" style="float: left; margin: 0 1em 1em 0;">
 
-<p markdown="1" style="text-align: justify;">
-In summer 2025, I had the pleasure of working as a tutor on the prestigious Okinawa Institute of Science and Technology Computational Neuroscience Course ([OCNC 2025](https://groups.oist.jp/ocnc)). I was especially happy to return to the OCNC, as I had been selected to participate in the course as a PhD student seven years prior! During the three-week course, I gave a two-hour SPM12 workshop and provided one-on-one supervision to five PhD students on their mini-projects completed as part of the course. 
+<p style="text-align: justify;">
+In summer 2025, I had the pleasure of working as a tutor on the prestigious Okinawa Institute of Science and Technology Computational Neuroscience Course (<a href="https://groups.oist.jp/ocnc">OCNC 2025</a>). I was especially happy to return to the OCNC, as I had been selected to participate in the course as a PhD student seven years prior! During the three-week course, I gave a two-hour SPM12 workshop and provided one-on-one supervision to five PhD students on their mini-projects completed as part of the course. 
 </p>
 
 ### OHBM Mentorship Program
 
-<p markdown="1" style="text-align: justify;">
-In collaboration with the OHBM Student and Postdoc Student Interest Group ([OHBM SP-SIG](https://www.ohbmtrainees.com/)), I volunteer as a mentor on the SP-SIG International Online Mentorship Program. The mentorship program aims to support early-career mentees by providing advice on a variety of topics such as scientific and personal development, grant writing, and work-life balance.
+<p style="text-align: justify;">
+In collaboration with the OHBM Student and Postdoc Student Interest Group (<a href="https://www.ohbmtrainees.com/">OHBM SP-SIG</a>), I volunteer as a mentor on the SP-SIG International Online Mentorship Program. The mentorship program aims to support early-career mentees by providing advice on a variety of topics such as scientific and personal development, grant writing, and work-life balance.
 </p>
 
 
@@ -86,6 +86,6 @@ In collaboration with the OHBM Student and Postdoc Student Interest Group ([OHBM
 
 <img src="/NAD2025_image1.png" alt="NAD 2025" width="300" style="float: right; margin: 0 0 1em 1em;">
 
-<p markdown="1" style="text-align: justify;">
-In 2026 I was appointed as a NAD Column Speaker for the [**_Brain States and Brain-Body Interactions_**](https://neuroscienceacademydenmark.dk/columns/brain-states-and-brain-body-interactions/) column. As Column Speaker, I have the responsibility of organising a mini-symposium at the NAD Annual Meeting, in addition to developing and facilitating satellite column events throughout the year, with support from Neuroscience Academy Denmark. I have also contributed to the organisation of both the 2025 and 2026 Annual Meetings as a member of the NAD Scientific Organising Committee. 
+<p style="text-align: justify;">
+In 2026 I was appointed as a NAD Column Speaker for the <a href="https://neuroscienceacademydenmark.dk/columns/brain-states-and-brain-body-interactions/"><strong><em>Brain States and Brain-Body Interactions<strong><em></a> column. As Column Speaker, I have the responsibility of organising a mini-symposium at the NAD Annual Meeting, in addition to developing and facilitating satellite column events throughout the year, with support from Neuroscience Academy Denmark. I have also contributed to the organisation of both the 2025 and 2026 Annual Meetings as a member of the NAD Scientific Organising Committee. 
 </p>
