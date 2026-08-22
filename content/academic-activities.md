@@ -20,7 +20,7 @@ text about lectures Watch my talk at OHBM 2024 here:
 
 I joined the Organisation for Human Brain Mapping Communications Committee ([OHBMComCom](https://www.ohbm-com.com/)) in 2024 as a blog writer, and in 2026 took on the role of **Chair-Elect**. OHBMComCom provides accessible information about scientific advances in the field of human brain mapping and updates in the OHBM community via the OHBM Blog, NeuroSalience podcast, and Lay Media posts. 
 
-<img src="content/media/OHBMComCom_image1.png" alt="OHBM 2026 Symposium Talk" width="300" style="float: right; margin: 0 0 1em 1em;">
+<img src="/OHBMComCom_image1.png" alt="OHBM 2026 Symposium Talk" width="300" style="float: right; margin: 0 0 1em 1em;">
 
 <p style="text-align: justify;">
 As part of my role in OHBMComCom, I was invited to speak in a symposium dedicated to scientific communication and outreach at the OHBM 2026 Annual Meeting. Here, I discussed the key aspects of making scientific communication accessible to a broader audience in multiple formats, whether it be blogging, podcasting, or via social media.
