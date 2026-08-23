@@ -18,7 +18,7 @@ At the OHBM 2024 Annual Meeting in Seoul, Korea, I was delighted to give a talk 
 
 ### Neuroscience Academy Denmark 2024, Copenhagen, Denmark
 
-<img src="/NAD2024_image1.jpeg" alt="NAD 2024 ECR Talk" width="300" style="float: left; margin: 0 1em 1em 0;">
+<img src="/NAD2024_image1.jpeg" alt="NAD 2024 ECR Talk" width="40%" style="float: left; margin: 0 1em 1em 0;">
 
 <p style="text-align: justify;">
 In autumn 2024, I was selected to give an Early Career Researcher Presentation at the Neuroscience Academy Denmark Annual Meeting in Copenhagen. I presented my recent work examining how central versus peripheral noradrenergic manipulations impact the neural signatures of predictive processing. 
@@ -36,7 +36,7 @@ In autumn 2024, I was selected to give an Early Career Researcher Presentation a
 I joined the Organisation for Human Brain Mapping Communications Committee (<a href="https://www.ohbm-com.com/">OHBMComCom</a>) in 2024 as a blog writer, and in 2026 took on the role of <strong>Chair-Elect</strong>. OHBMComCom provides accessible information about scientific advances in the field of human brain mapping and updates in the OHBM community via the OHBM Blog, NeuroSalience podcast, and Lay Media posts. 
 </p>
 
-<img src="/OHBMComCom_image1.png" alt="OHBM 2026 Symposium Talk" width="300" style="float: right; margin: 0 0 1em 1em;">
+<img src="/OHBMComCom_image1.png" alt="OHBM 2026 Symposium Talk" width="40%" style="float: right; margin: 0 0 1em 1em;">
 
 <p style="text-align: justify;">
 As part of my role in OHBMComCom, I was invited to speak in a symposium dedicated to scientific communication and outreach at the OHBM 2026 Annual Meeting. Here, I discussed the key aspects of making scientific communication accessible to a broader audience in multiple formats, whether it be blogging, podcasting, or via social media.
@@ -67,7 +67,7 @@ In 2026 I was selected as a mentor for the <a href="[https://groups.oist.jp/ocnc
 
 ### OIST Computational Neuroscience Course
 
-<img src="/OCNC2025.jpeg" alt="OCNC 2025 Cohort" width="300" style="float: left; margin: 0 1em 1em 0;">
+<img src="/OCNC2025.jpeg" alt="OCNC 2025 Cohort" width="40%" style="float: left; margin: 0 1em 1em 0;">
 
 <p style="text-align: justify;">
 In summer 2025, I had the pleasure of working as a tutor on the prestigious Okinawa Institute of Science and Technology Computational Neuroscience Course (<a href="https://groups.oist.jp/ocnc">OCNC 2025</a>). I was especially happy to return to the OCNC, as I had been selected to participate in the course as a PhD student seven years prior! During the three-week course, I gave a two-hour SPM12 workshop and provided one-on-one supervision to five PhD students on their mini-projects completed as part of the course. 
@@ -84,7 +84,7 @@ In collaboration with the OHBM Student and Postdoc Student Interest Group (<a hr
 
 ---
 
-<img src="/NAD2025_image1.png" alt="NAD 2025" width="300" style="float: right; margin: 0 0 1em 1em;">
+<img src="/NAD2025_image1.png" alt="NAD 2025" width="40%" style="float: right; margin: 0 0 1em 1em;">
 
 <p style="text-align: justify;">
 In 2026 I was appointed as a NAD Column Speaker for the <a href="https://neuroscienceacademydenmark.dk/columns/brain-states-and-brain-body-interactions/"><strong><em>Brain States and Brain-Body Interactions</em></strong></a> column. As Column Speaker, I have the responsibility of organising a mini-symposium at the NAD Annual Meeting, in addition to developing and facilitating satellite column events throughout the year, with support from Neuroscience Academy Denmark. I have also contributed to the organisation of both the 2025 and 2026 Annual Meetings as a member of the NAD Scientific Organising Committee. 
