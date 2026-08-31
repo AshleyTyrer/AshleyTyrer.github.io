@@ -14,8 +14,8 @@ weight = 55
 At the OHBM 2024 Annual Meeting in Seoul, Korea, I was delighted to give a talk on interoception as a transdiagnostic biomarker for disorders affecting both physical and mental health. I presented some of the incredible work produced by multiple members of the Embodied Computation Group at Aarhus University, and also presented some of my preliminary findings on how central vs peripheral beta-adrenergic blockade affects predictive processing and interoception. Watch my talk at OHBM 2024 here:
 </p>
 
-<a href="https://www.youtube.com/watch?v=wQUWL0gtCCg">
-  <img src="/OHBM2024_oralpresentation1.jpg" alt="OHBM 2024 Talk" width="50%" style="float: center;">
+<a href="https://www.youtube.com/watch?v=wQUWL0gtCCg" target="_blank">
+  <img src="/OHBM2024_oralpresentation1.jpg" alt="OHBM 2024 Talk" width="60%" style="float: center;">
 </a>
 
 
