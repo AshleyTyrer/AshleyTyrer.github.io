@@ -10,6 +10,8 @@ weight = 40
 
 **Tyrer A**, Nikolova N, Dubois M, Banellis L, Vejlø M, Hauser T, Allen M (2026). Cortical Microstructural Variations Correlate with Individual Differences in Gamified Exploration–Exploitation Behaviours. *Computational Psychiatry*, 10(1). https://doi.org/10.5334/cpsy.164 
 
+Hoogervorst K, Bavato F, **Tyrer A**, Allen M (2026). Dissociating Accuracy and Metacognition in Nutritional Judgements. *Cognition*, 278. https://doi.org/10.1016/j.cognition.2026.106744
+
 Banellis L, Nikolova N, Ehmsen JF, Courtin AS, Vejlø M, **Tyrer A**, Böhme RA, Bavato F, Hoogervorst K, Fardo F, Allen MG (2026). Interoceptive performance is unrelated to mental health symptoms in a large multi-domain psychophysical investigation. *Nature Mental Health*, 1–15. https://doi.org/10.1038/s44220-026-00688-4
 
 Banellis L, Nikolova N, Ehmsen JF, Courtin AS, Vejlø M, **Tyrer A**, Böhme RA, Fardo F, Allen MG (2026). Interoceptive ability is uncorrelated across respiratory and cardiac axes in a large scale psychophysical study. *Communications Psychology*, 4(1), 43. https://doi.org/10.1038/s44271-026-00404-z
@@ -26,7 +28,7 @@ Dewari PS, Southgate B, Mccarten K, Monogarov G, O'Duibhir E, Quinn N, **Tyrer A
 
 Vejlø M, Nikolova N, Banellis L, **Tyrer A**, Skvortsova V, Hauser T, Allen M (2026). Dissociable microstructural correlates of learning rate and learning noise in gamified reward-based decision-making. *bioRxiv*, 2026. https://doi.org/10.64898/2026.02.24.707646
 
-Hoogervorst K, Bavato F, **Tyrer A**, Allen M (2026). Dissociating Accuracy and Metacognition in Nutritional Judgements. *OSF Preprints*, 2026. https://doi.org/10.31234/osf.io/5xhnk_v1
+Hoogervorst K, Banellis L, Fardo F, Xue K, **Tyrer A**, Rahnev D, Allen M (2024). Gender Differences in Metacognition: Global and Local Contrasts in Bias and Efficiency. *PsyArXiv*, 2024.01. https://doi.org/10.31234/osf.io/2gwky
 
 ---
 
