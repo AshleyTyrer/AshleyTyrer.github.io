@@ -13,7 +13,7 @@ doi: "https://doi.org/10.31234/osf.io/2gwky"
 
 publication_types: ["3"]
 
-publication: "*PsyArXiv*, 2026"
+publication: "*PsyArXiv*, 2024"
 publication_short: "*PsyArXiv*"
 
 abstract: ""
