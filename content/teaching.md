@@ -40,4 +40,4 @@ In autumn 2026, I began teaching as an Adjunct Professor at the <a href="https:/
 My classes take place over the course of two weeks with approx. 20 active teaching hours plus coding assignments. Students enrolled on the <i>Neuroscience and Neuroimaging</i> Masters program come from a wide range of educational backgrounds spanning medical sciences, psychology, cognitive sciences, and physics. I therefore tailor my content and teaching approaches to accommodate students' various levels and backgrounds. 
 </p>
 
-<img src="/SDCTeaching_class2.jpeg" alt="SDC Class Teaching" width="60%" style="text-align: center; margin: 0 0 0 0;">
+<img src="/SDCTeaching_class2.jpeg" alt="SDC Class Teaching" width="60%" style="display: block; clear: both; margin: 0 auto;">
