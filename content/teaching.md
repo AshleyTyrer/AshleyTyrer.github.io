@@ -34,6 +34,8 @@ I also contributed my knowledge of DCM to the Organisation for Human Brain Mappi
 
 <p style="text-align: justify;">
 In autumn 2026, I began teaching as an Adjunct Professor at the <a href="https://sdc.university/"> Sino-Danish Centre for Education and Research</a>, contributing to a course on Fundamental Biomedical Signal Processing as part of the Masters program on <i>Neuroscience and Neuroimaging</i>. My classes cover essential topics in biomedical signal processing, ranging from Fourier series and transforms to practical applications of digital filters and time-series analyses, integrating traditional lectures with hands-on python sessions. 
+
+My classes take place over the course of two weeks with approx. 20 active teaching hours plus coding assignments. Students enrolled on the <i>Neuroscience and Neuroimaging</i> Masters program come from a wide range of educational backgrounds spanning medical sciences, psychology, cognitive sciences, and physics. I therefore tailor my content and teaching approaches to accommodate students' various levels and backgrounds. 
 </p>
 
-<img src="/SDCTeaching_class2.jpeg" alt="SDC Class Teaching" width="50%" style="float: center; margin: 0 0 0 0;">
+<img src="/SDCTeaching_class2.jpeg" alt="SDC Class Teaching" width="70%" style="float: center; margin: 0 0 0 0;">
