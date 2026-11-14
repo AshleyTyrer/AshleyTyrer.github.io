@@ -9,14 +9,14 @@ weight = 20
 ## Employment
 
 
-**Current position (2026-present):** Assistant Professor of Computational Neuroscience, Aarhus University, DK
+**Current position (Jan 2026-present):** Assistant Professor of Computational Neuroscience, Aarhus University, DK
 
-**Sep 2021 - Dec 2025:**             **_Postdoctoral Research Fellow, Aarhus University, DK_**
+**Sep 2021 - Dec 2025:**             **_Postdoctoral Research Fellow, [Embodied Computation Group](https://www.the-ecg.org/), Aarhus University, DK_**
 
 - *Large-scale project management:* design, development, and execution of large human neuroimaging data collection and analysis
 - *Technical expertise:* application of Bayesian statistical methods, machine learning, and computational modelling of human neuroimaging (including time series analysis) and behavioural data
 - *Effective communication and dissemination of results:* through regular local, national, and international conference presentations (talks and posters) and written publications
-- *Eleven presentations (talks and posters) across five different countries*
+- *26 presentations (talks and posters) across seven different countries*
 
 ---
 
@@ -43,4 +43,4 @@ Supervisor: Prof Rosalyn Moran
 
 My curriculum vitae is available as a PDF:
 
-- [Download CV](/cv/ashley-tyrer-cv.pdf)
+- [Download CV](/cv/AT_CV.pdf)
