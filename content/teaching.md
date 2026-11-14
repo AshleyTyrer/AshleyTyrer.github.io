@@ -30,4 +30,10 @@ I also contributed my knowledge of DCM to the Organisation for Human Brain Mappi
 
 ---
 
-In 2026, I will teach Fundamental Biomedical Signal Processing in collaboration with the [Sino-Danish Centre for Education and Research](https://sdc.university/). My lectures will cover a range of topics, from Fourier Series to filtering and time-frequency analyses. 
+<img src="/SDC_flags.jpg" alt="SDC Campus" width="40%" style="float: left; margin: 0 1em 1em 0;">
+
+<p style="text-align: justify;">
+In autumn 2026, I began teaching as an Adjunct Professor at the <a href="https://sdc.university/"> Sino-Danish Centre for Education and Research</a>, contributing to a course on Fundamental Biomedical Signal Processing as part of the Masters program on <i>Neuroscience and Neuroimaging</i>. My classes cover essential topics in biomedical signal processing, ranging from Fourier series and transforms to practical applications of digital filters and time-series analyses, integrating traditional lectures with hands-on python sessions. 
+</p>
+
+<img src="/SDCTeaching_class2.jpeg" alt="SDC Class Teaching" width="50%" style="float: center; margin: 0 0 0 0;">
