@@ -2,22 +2,22 @@
 title = "Interoception"
 tag = "Interoception"
 image = "media/interoception_1.svg"
-description = "I investigate how people perceive and interpret signals from within the body, with a focus on cardiac and respiratory sensations and their role in health and behaviour."
+description = "Interoception describes the ability to perceive and process signals pertaining to the body’s internal state, such as those arising from the heart, lungs, and other visceral organs. This processing is fundamental to emotional regulation and self-awareness, and its dysfunction is widely implicated in various psychiatric conditions. I investigate how people perceive and interpret signals from within the body, specifically aiming to disentangle the neurobiological and neuropharmacological mechanisms underlying complex brain-body interactions."
 
 [[areas]]
 title = "Decision-making"
 tag = "Decision-Making"
 image = "media/decisionmaking_1.svg"
-description = "My work examines the cognitive and neural processes that shape decisions, including how people learn from feedback and balance exploration with exploitation."
+description = "Individuals display considerable variability in their preferred decision-making strategies and this variability is further modulated by our environment. These individual differences in decision-making approaches offer a glimpse into the underlying neuronal and computational processes executed by the brain, and may explain how decision-making becomes disrupted in poor states of mental health. My work examines the cognitive and neural processes that influence human decision-making, including how people update their beliefs about their environment."
 
 [[areas]]
 title = "Dynamic Causal Modelling"
 tag = "Dynamic Causal Modelling"
 image = "media/dcm_1.svg"
-description = "I use Dynamic Causal Modelling to test mechanistic accounts of how brain regions interact, and how those interactions change across tasks and clinical conditions."
+description = "Dynamic Causal Modelling (DCM) is a computational modelling framework which aims to explain measured data through a network model consisting of a few sources which dynamically interact with one another. I employ DCM in my research to investigate effective connectivity across the brain using both fMRI, EEG, and MEG. My research examines whole-brain effective connectivity across cortical hierarchies at rest, and how complex directed connections are modulated by tasks and clinical conditions."
 
 [[areas]]
 title = "Metacognition"
 tag = "Metacognition"
 image = "media/metacognition_1.svg"
-description = "I study how people evaluate the quality of their own judgements, including the relationship between confidence, accuracy, and decision-making."
+description = "Metacognition, the process of monitoring one's cognitive and perceptual processes, plays a crucial role in optimal cognitive functioning. Identifying the biological underpinnings of metacognition is essential for advancing our understanding of how inter-individual differences in metacognitive abilities emerge. My work employs computational modelling to examine how people evaluate the quality of their own judgements, including the relationship between confidence, accuracy, and biological signals."
