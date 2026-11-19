@@ -51,12 +51,21 @@ I have also interviewed a number of eminent researchers for the OHBM Blog, inclu
 
 ### Podcast Appearances
 
+#### The SciComm Spectrum
+
 <p style="text-align: justify;">
 In autumn 2025 I appeared on The SciComm Spectrum Podcast, hosted by Julia Masselos. The podcast highlights science communicators from a range of backgrounds from writers, filmmakers, and performers to entrepreneurs, educators and inventors. It was a great pleasure to discuss my research and why science communication matters to both our fellow scientists and the general public. Watch the podcast episode here:
 </p>
 
 [![SciComm Spectrum Podcast](https://img.youtube.com/vi/Vb07mpQ32qg/0.jpg)](https://www.youtube.com/watch?v=Vb07mpQ32qg) 
 
+#### The Art of Thinking by Eliza Saif
+
+<p style="text-align: justify;">
+In November 2026 I was delighted to be invited onto The Art of Thinking Podcast by Eliza Saif, which shares conversations with a wide variety of experts in neuroscience and psychology. Eliza and I discussed how our prior beliefs and internal models of the world influence our perception of reality, and how complex brain-body interactions may be implicated in mental health. Watch the podcast episode here:
+</p>
+
+[![The Art of Thinking Podcast](https://img.youtube.com/vi/55mVpSkbNBQ/0.jpg)](https://www.youtube/watch?v=55mVpSkbNBQ)
 
 ## Mentorship
 
